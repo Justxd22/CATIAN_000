@@ -39,7 +39,7 @@
 - I will run a quick `LinearRegression` to get a base score
 - I will use XGBoost to make the model :)
 - I will make initial guess about which features are useless to drop them Like countries names? i will use `SHAP` plots to get a general idea
-## Check `LFED.ipynb` for the Solution
+## Check [LFED.ipynb](LFED.ipynb) for the Solution
 
 
 ## SQL Problems:
